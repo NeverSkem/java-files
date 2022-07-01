@@ -112,10 +112,3 @@ public class Matrix {
         System.out.println("Total: " + mat1.totalMultiply(mat2));
     }
 }
-
-
-
-
-
-
-
