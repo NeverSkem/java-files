@@ -21,7 +21,7 @@ public class BubbleSort {
         System.out.println("Input array size: ");
         int n = input.nextInt();
         int[] arr = new int[n];
-        System.out.println("\nInput the number of elements: ");
+        System.out.println("\nInput the elements: ");
         for (int i = 0; i < n; i++) {
             int elem = input.nextInt();
             arr[i] = elem;
